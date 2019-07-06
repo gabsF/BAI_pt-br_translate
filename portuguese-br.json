@@ -25,7 +25,7 @@
     "bai_pdth_hud_reborn_custom_text_color" : "Usar cor customizada do texto",
     "bai_pdth_hud_reborn_custom_text_color_desc" : "Quando desligado o jogo irá aplicar a cor do ícone do Assault para a cor do texto",
     "bai_pdth_hud_reborn_aai_only_text" : "Aplicar a cor para apenas informações do Assault Avançado",
-    "bai_pdth_hud_reborn_aai_only_text_desc" : "A cor abaixo só irá aplicar para	'Tempo restante' e 'Spawns restante'\n'Usar a cor do texto customizada' deve ser ativado pra poder funcionar",
+    "bai_pdth_hud_reborn_aai_only_text_desc" : "A cor abaixo só irá aplicar para 'Tempo restante' e 'Spawns restante'\n'Usar a cor do texto customizada' deve ser ativado pra poder funcionar",
 
     "bai_restoration_mod" : "Opções do Restoration Mod",
     "bai_restoration_mod_desc" : "Aplicar as configurações de BAI para Restoration Mod",
@@ -126,7 +126,7 @@
     "bai_show_advanced_assault_info_desc" : "Mostra 'Spawns restantes' e 'Tempo restante' na Caixa de Assault\nNão irá aparecer enquanto tiver o Assault endless ou quando o Captain chegar",
 
     "bai_advanced_assault_info" : "Informações avançadas do Assault",
-    "bai_advanced_assault_info_desc" : "Muda as informações na caixa do Assault\n'Mostra as informações avançadas do Assault'must be enabled in order to work. Some options will not work on client",
+    "bai_advanced_assault_info_desc" : "Muda as informações na caixa do Assault\n'Mostra as informações avançadas do Assault' deve ser ativado. algumas coisas podem não funcionar no cliente.",
 
     "bai_show_time_left" : "Mostra o 'Tempo restante'",
     "bai_show_time_left_desc" : "Mostra o quanto 'tempo resta' na Caixa do Assault\nTalvez não seja preciso quando você entra em um jogo em progresso, mas depois  fica preciso",
@@ -146,11 +146,11 @@
     "bai_use_custom_text" : "Usar texto personalizado",
     "bai_use_custom_text_desc" : "Se ligado, a HUD irá usar o texto que você colocar, invés do BAI ou jogo oferecer",
     "bai_text" : "Texto",
-    "bai_text_desc" : "Escreve o que você quiser, eu não ligo, VAI ANDA LOGO, ESCREVE ALGO", -- Text anything you want, i don't care, COME ON, WRITE SOMETHING
+    "bai_text_desc" : "Escreve o que você quiser, eu não ligo, VAI ANDA LOGO, ESCREVE ALGO",
     "bai_text_short" : "Texto (Curto)",
-    "bai_text_short_desc" : "algumas HUDs tem uma caixa de Assault pequena e usam um texto pequeno invés a da grande. Escreve o que você quiser, mas não exagera", -- Text anything you want, but short
+    "bai_text_short_desc" : "algumas HUDs tem uma caixa de Assault pequena e usam um texto pequeno invés a da grande. Escreve o que você quiser, mas não exagera",
     "bai_custom_text" : "Texto customizado aqui",
-    "bai_custom_text_desc" : "MANO, O QUE VOCÊ TÁ ESPERANDO? UM CLOAKER? ANDO LOGO, ESCREVE", -- DUDE, WHAT THE PECK ARE YOU WAITING FOR? A CLOAKER? COME ON, WRITE SOMETHING
+    "bai_custom_text_desc" : "MANO, O QUE VOCÊ TÁ ESPERANDO? UM CLOAKER? ANDO LOGO, ESCREVE",
 
     "bai_faction_assault_text" : "Mostra os nomes das Facções na Caixa do Assault",
     "bai_faction_assault_text_desc" : "Mostra o nome da Facção que estiver lutando na Caixa do Assault\n'Texto personalizado' atrapalha um pouco, então, desativa se querer os nomes das Facções. Não funciona em Crime Spree",
@@ -168,7 +168,7 @@
     "hud_assault_alpha_russian" : "ASSALTO RUSSO",
     "hud_assault_assault_fss_mod_1" : "SUÍCUDIO EM PROGRESSO",
     "hud_assault_assault_fss_mod_2" : "MACHISMO EM PROGRESSO",
-    "hud_assault_assault_fss_mod_3" : "VOCÊ É UM MACHISTA, CARALHO?", -- ARE YOU FUCKIN MASOCHIST?
+    "hud_assault_assault_fss_mod_3" : "VOCÊ É UM MACHISTA, CARALHO?",
     "hud_assault_assault_gensec" : "ASSALTO DA GENSEC EM PROGRESSO",
     "hud_assault_assault_zeal" : "ASSALTO DA ZEAL EM PROGRESSO",
     "hud_assault_assault_fbi" : "ASSALTO DA FBI EM PROGRESSO",
@@ -180,22 +180,22 @@
     "hud_assault_endless" : "ASSAULT SEM FIM EM PROGRESSO",
     "hud_assault_endless_fss_mod_1" : "SUÍCIDIO SEM FIM EM PROGRESSO",
     "hud_assault_endless_fss_mod_2" : "MACHISMO SEM FIM EM PROGRESSO",
-    "hud_assault_endless_fss_mod_3" : "PUTA QUE PARIU, UM MACHISTA LOGO ALI!", -- HOLY SHIT, THERES A MASOCHIST OVER THERE!
+    "hud_assault_endless_fss_mod_3" : "PUTA QUE PARIU, UM MACHISTA LOGO ALI!",
     "hud_assault_endless_gensec": "ASSALTO DA GENSEC SEM FIM EM PROGRESSO",
     "hud_assault_endless_zeal" : "ASSALTO DA ZEAL SEM FIM EM PROGRESSO",
     "hud_assault_endless_fbi" : "ASSALTO DA FBI SEM FIM EM PROGRESSO",
-    "hud_assault_endless_halloween" : "VAI FICAR SEM DOCE, MAU MENINO", -- NO CANDY FOR YOU, BAD BOY
+    "hud_assault_endless_halloween" : "VAI FICAR SEM DOCE, MAU MENINO",
     "hud_assault_endless_murkywater" : "OPERAÇÃO MURKYWATER SEM FIM EM PROGRESSO",
     "hud_assault_endless_russian" : "ASSALTO RUSSO SEM FIM EM PROGRESSO",
     "hud_assault_endless_alpha" : "ASSALTO SEM FIM EM PROGRESSO",
     "hud_assault_endless_alpha_fss_mod_1" : "SUÍCIDO SEM FIM",
     "hud_assault_endless_alpha_fss_mod_2" : "MACHISMO SEM FIM",
-    "hud_assault_endless_alpha_fss_mod_3" : "TÁ FUDIDO, MACHISTA", -- YOU GONNA GET DUNKED UP, MASOCHIST
+    "hud_assault_endless_alpha_fss_mod_3" : "TÁ FUDIDO, MACHISTA",
     "hud_assault_endless_alpha_gensec" : "ASSALTO SEM FIM DA GENSEC",
     "hud_assault_endless_alpha_zeal" : "ASSALTO SEM FIM DA ZEAL",
     "hud_assault_endless_alpha_fbi" : "ASSALTO SEM FIM DA FBI",
     "hud_assault_endless_alpha_murkywater" : "OPERAÇÃO MURKYWATER SEM FIM",
-    "hud_assault_endless_alpha_halloween" : "FELIZ HALLOWEEN!", -- HAPPY HALLOWEEN!
+    "hud_assault_endless_alpha_halloween" : "FELIZ HALLOWEEN!",
     "hud_assault_endless_alpha_russian" : "ASSALTO RUSSO EM PROGRESSO",
     "hud_assault_survived_endless" : "ASSALTO SEM FIM SOBREVIVIDA",
     "hud_assault_survived_endless_fss_mod_1" : "SUÍCIDIO SEM FIM SOBREVIVIDA",
